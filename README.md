@@ -1,1 +1,1 @@
-# excel-file-merger
+#Small project to merge simple excel files using apache poi.
